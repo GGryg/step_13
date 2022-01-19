@@ -6,7 +6,7 @@ Drugi paragraf
 
 Trzeci paragraf
 
-**Pogrubienie** *Kursywa* [podkreslenie](htpps://google.com)
+**Pogrubienie** *Kursywa* ~~przekreslenie~~
 
 >Cytat
 
