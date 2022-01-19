@@ -6,7 +6,7 @@ Drugi paragraf
 
 Trzeci paragraf
 
-**Pogrubienie** *Kursywa* [podkreslenie](htpps://duckgo.com)
+**Pogrubienie** *Kursywa* [podkreslenie](htpps://google.com)
 
 >Cytat
 
@@ -22,9 +22,11 @@ Trzeci paragraf
 	- cos2
 - trzy
 
-    def funkcja():
-        print("cos")
-    funckja()
+```python
+def funkcja():
+    print("cos")
+funckja()
+```
 
 W linuxie używaj `nano`...
 
