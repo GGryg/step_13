@@ -22,9 +22,9 @@ Trzeci paragraf
 	- cos2
 - trzy
 
-	def funkcja():
-		print("cos")
-	funckja()
+    def funkcja():
+        print("cos")
+    funckja()
 
 W linuxie używaj `nano`...
 
